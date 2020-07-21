@@ -21,6 +21,7 @@ namespace ImportExcel
         }
 
 
+        //Fetch all the data from excel file to string array
         public string[,] ReadRange(int startI, int startY, int endI, int endY)
         {
             Range range = (Range)ws.Range[ws.Cells[startI, startY], ws.Cells[endI, endY]];

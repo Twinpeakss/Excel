@@ -22,13 +22,14 @@ namespace ImportExcel
         /// The ID(kod kreskowy) always the last parameter int the row (3).
         /// </summary>
         string[,] commodity_list;
+
         public Form1()
         {
             InitializeComponent();
         }
 
         
-
+        //Import choosen file
         private void btnPick_Click(object sender, EventArgs e)
         {
             using (OpenFileDialog op = new OpenFileDialog())
