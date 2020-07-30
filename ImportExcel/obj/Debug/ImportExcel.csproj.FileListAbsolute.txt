@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\ImportExcel\ImportExcel\bin\Debug\ImportExcel.exe.config
+C:\Users\User\source\repos\ImportExcel\ImportExcel\bin\Debug\ImportExcel.exe
+C:\Users\User\source\repos\ImportExcel\ImportExcel\bin\Debug\ImportExcel.pdb
+C:\Users\User\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.Form1.resources
+C:\Users\User\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.Properties.Resources.resources
+C:\Users\User\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.exe
+C:\Users\User\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.pdb
+C:\Users\User\source\repos\ImportExcel\ImportExcel\obj\Debug\ImportExcel.csprojAssemblyReference.cache
